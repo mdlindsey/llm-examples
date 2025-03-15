@@ -10,7 +10,8 @@
     "langchain": "^0.1.37",
     "llm-api": "^1.6.0",
     "openai": "^4.38.3",
-    "zod-gpt": "^0.16.0"
+    "zod-gpt": "^0.16.0",
+    "zod-to-json-schema": "^3.23.0"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
